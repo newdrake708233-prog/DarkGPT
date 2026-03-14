@@ -24,9 +24,10 @@ pip install torch
 pip install torch-directml  # AMD GPU users only
 ```
 
-**2. Generate training data**
+**2. Generate training data (if you add more data)**
 ```bash
 python data.py         # scrapes Wikipedia (geopolitics, history)
+# If you wish to keep it as in release, skip this step.
 ```
 
 **3. Train the model (if you add more data)**
