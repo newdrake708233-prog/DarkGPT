@@ -7,6 +7,7 @@ Built as a learning project to explore the capabilities of artificial intellegen
 ## Models:
 _DarkGPT v0.1_alpha:_
 
+```bash
 3.6 million params
 
 Steps: 10000
@@ -25,6 +26,7 @@ _Total (training data): 30000 kb._
 
 _DarkGPT v0.2_super:_
 
+```bash
 6.3 million params
 
 Steps: 15000
