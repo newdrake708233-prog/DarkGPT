@@ -13,13 +13,13 @@ Pyhton syntax and documentation.
 
 Total: 25000 kb.
 
-DarkGPT v0.2:
+_DarkGPT v0.2:_
 
 30 mb of wikipedia articles.
 Pyhton syntax and documentation.
 50 mb of natural human conversations.
 
-Total: 82000 kb.
+_Total: 82000 kb._
 
 ---
 
