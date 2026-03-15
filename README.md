@@ -4,6 +4,24 @@ A GPT style transformer language model with no limitations built from scratch in
 Built as a learning project to explore the capabilities of artificial intellegence.
 
 ---
+## Trained on:
+DarkGPT v0.1_alpha:
+
+Around 20 mb of wikipedia articles.
+Pyhton syntax and documentation.
+5 mb of natural human conversations.
+
+Total: 25000 kb.
+
+DarkGPT v0.2:
+
+30 mb of wikipedia articles.
+Pyhton syntax and documentation.
+50 mb of natural human conversations.
+
+Total: 82000 kb.
+
+---
 
 ## What it is
 
