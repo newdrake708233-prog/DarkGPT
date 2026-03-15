@@ -8,23 +8,37 @@ Built as a learning project to explore the capabilities of artificial intellegen
 _DarkGPT v0.1_alpha:_
 
 3.6 million params
+
 Steps: 10000
+
 Context length: 256
+
 Rate: 3e-4
+
 Conversational data: 5000 kb
+
 Wikipedia data: 20000 kb
+
 Other data: 2000 kb
+
 _Total (training data): 30000 kb._
 
-_DarkGPT v0.2:_
+_DarkGPT v0.2_super:_
 
 6.3 million params
+
 Steps: 15000
+
 Context length: 256
+
 Rate: 2e-4
+
 Conversational data: 60000 kb
+
 Wikipedia data: 25000 kb
+
 Other data: 2500 kb
+
 _Total (training data): 87500 kb._
 
 ---
