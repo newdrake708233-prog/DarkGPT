@@ -23,6 +23,7 @@ Wikipedia data: 20000 kb
 Other data: 2000 kb
 
 _Total (training data): 30000 kb._
+```
 
 _DarkGPT v0.2_super:_
 
@@ -42,6 +43,7 @@ Wikipedia data: 25000 kb
 Other data: 2500 kb
 
 _Total (training data): 87500 kb._
+```
 
 ---
 
