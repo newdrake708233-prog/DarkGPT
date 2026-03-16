@@ -3,6 +3,8 @@
 A GPT style transformer language model with no limitations built from scratch in Python using PyTorch. Runs entirely locally; no API, no internet, no restrictions.
 Built as a learning project to explore the capabilities of artificial intellegence.
 
+*IMPORTANT!!* Check releases for lastest version! Model training data (wont't run without it!!) is also there!! 
+
 ---
 ## Models:
 _DarkGPT v0.1_alpha:_
@@ -18,7 +20,7 @@ Other data: 2000 kb
 Total (training data): 30000 kb.
 ```
 
-_DarkGPT v0.2_super:_
+_DarkGPT v0.2:_
 
 ```bash
 6.3 million params
