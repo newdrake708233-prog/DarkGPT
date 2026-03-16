@@ -5,8 +5,7 @@ import torch
 from model import TinyLM, ModelConfig, count_params
 import torch_directml
 
-#training algorithm, developed 05.03.2026
-
+#Improved training algorithm, developed 15.03.2026
 
 parser = argparse.ArgumentParser(description="DarkGPT")
 parser.add_argument("--data",       type=str,   default="data/training.txt")
