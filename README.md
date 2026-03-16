@@ -77,7 +77,7 @@ dark_gpt/
 ├── model.py                 # The model
 ├── train.py                 # Training loop and checkpointing
 ├── chat.py                  # Tkinter chat interface
-├── data.py            # Wikipedia data scraper
+├── data2.py                 # data scraper
 ├── data/                    # Training data (generated locally)
 └── checkpoints/
     └── model.pt             # Trained weights
