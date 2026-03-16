@@ -24,8 +24,10 @@ Total (training data): 67500 kb.
 # significantly more efficeint data used for training, and has more steps, meaning data is
 # being used more efficiently, producing much bette responses.
 ```
+Check releases:
 
 _DarkGPT v0.2_
+
 _DarkGPT v0.1_alpha_
 
 ---
