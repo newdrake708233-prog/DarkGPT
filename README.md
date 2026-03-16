@@ -22,9 +22,9 @@ Total (training data): 67500 kb.
 
 # Despite having less params and training data then v0.2, training data is
 # significantly more efficeint data used for training, and has more steps, meaning data is
-# being used more efficiently, producing much bette responses.
+# being utilised more efficiently, producing much bette responses.
 ```
-Check releases:
+Other releases:
 
 _DarkGPT v0.2_
 
