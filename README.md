@@ -37,8 +37,8 @@ _DarkGPT v0.1_alpha_
 DarkGPT is a decoder only transformer (the same architecture behind ChatGPT, Claude, Gemini etc..) Every component is written by hand. It is not a remake of any existing model.
 
 **Architecture**
-- 3.6M parameters
-- 4 transformer blocks, 4 attention heads
+- 5.1M / 6.3M parameters (Depending on model)
+- 4 transformer blocks, 5 attention heads
 - 256 token context window
 
 ---
