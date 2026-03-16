@@ -8,7 +8,7 @@ import torch_directml
 #training algorithm, developed 05.03.2026
 
 
-parser = argparse.ArgumentParser(description="Train TinyLM")
+parser = argparse.ArgumentParser(description="DarkGPT")
 parser.add_argument("--data",       type=str,   default="data/training.txt")
 parser.add_argument("--steps",      type=int,   default=3000)
 parser.add_argument("--batch",      type=int,   default=32)
