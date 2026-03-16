@@ -10,7 +10,7 @@ Developed as a learning project to explore the capabilities of artificial intell
 
 _Latest:_
 
-_DarkGPT v0.2_super_
+**_DarkGPT v0.2_super_**
 ```bash
 5.1 million params
 Steps: 16500
@@ -26,9 +26,9 @@ Total (training data): 67500 kb.
 ```
 Other releases:
 
-_DarkGPT v0.2_
+**_DarkGPT v0.2_**
 
-_DarkGPT v0.1_alpha_
+**_DarkGPT v0.1_alpha_**
 
 ---
 
