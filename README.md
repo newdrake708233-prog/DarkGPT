@@ -97,10 +97,10 @@ Trained on an AMD RX 7600 using DirectML. Also works on NVIDIA (CUDA) or CPU, th
 ## Limitations
 
 This is a small research/learning model. It may produce incoherent or off topic responses, especially to short prompts.
-NOTICE!! This will be fixed in the next release!!
+NOTICE!! This will be fixed in the next releases!!
 
 ---
 
 ## Releases
 
-**Current version:** DarkGPT v0.1 Alpha
+**Current version:** DarkGPT v0.2
