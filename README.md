@@ -20,9 +20,9 @@ Conversational data: 65000 kb
 Other data: 2500 kb
 Total (training data): 67500 kb.
 
-#Despite having less params and training data then v0.2, training data is
-significantly more efficeint data used for training, and has more steps, meaning data is
-being used more efficiently, producing much bette responses.
+# Despite having less params and training data then v0.2, training data is
+# significantly more efficeint data used for training, and has more steps, meaning data is
+# being used more efficiently, producing much bette responses.
 ```
 
 _DarkGPT v0.2_
