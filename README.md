@@ -3,7 +3,7 @@
 A GPT style transformer language model with no limitations built from scratch in Python using PyTorch. Runs entirely locally; no API, no internet, no restrictions.
 Built as a learning project to explore the capabilities of artificial intellegence.
 
-*IMPORTANT!!* Check releases for lastest version! Model training data (wont't run without it!!) is also there!! 
+**IMPORTANT!!** *Check releases for lastest version! Model training data (wont't run without it!!) is also there!!*
 
 ---
 ## Models:
