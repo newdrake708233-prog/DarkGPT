@@ -25,7 +25,7 @@ Total (training data): 67500 kb.
 # being utilised more efficiently, producing much bette responses.
 #Updated, more beutiful and easier to navigate tkinter UI.
 ```
-<img width="991" height="758" alt="Снимок экрана 2026-03-18 091721" src="https://github.com/user-attachments/assets/a8817eb4-6b42-42ca-b123-56d79a9ea1c8" />
+<img width="450" height="350" alt="Снимок экрана 2026-03-18 091721" src="https://github.com/user-attachments/assets/a8817eb4-6b42-42ca-b123-56d79a9ea1c8" />
 
 Other releases:
 
